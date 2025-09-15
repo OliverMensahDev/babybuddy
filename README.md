@@ -115,12 +115,10 @@ _Some of the links below use referral codes -- all referral proceeds are treated
 [<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" width="100" alt="JetBrains Logo (Main) logo.">](https://www.jetbrains.com/community/opensource/)
 [![POEditor](https://poeditor.com/public/images/ui/logos/logo_dark.svg)](https://poeditor.com/)
 
-
 ### Deployment
 
 Use the button below to start a new deploy to DigitalOcean.
 
 Modify the app environment variables during the build configuration and set the SECRET_KEY value to something random and unique. Digital Ocean's automatic secret generator does not work with Baby Buddy. This will cost $12+/month.
-
 
 [![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/babybuddy/babybuddy/tree/master&refcode=dd79e4cfd7b6)
